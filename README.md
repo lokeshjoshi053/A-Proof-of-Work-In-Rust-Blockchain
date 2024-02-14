@@ -1,4 +1,4 @@
-# rust-blockchain
+#A-Proof-of-Work-In-Rust
 
 A Proof of Work blockchain written in Rust. For Practice purposes only.
 
